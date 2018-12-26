@@ -17,7 +17,7 @@
   },
   "license": "Apache-2.0",
   "dependencies": {
-    "bootstrap-daterangepicker": "^2.1.13"
+    "bootstrap-daterangepicker": "github:roopunk/daterangepicker#18de23cb8db8393b071c8b49e1886387b8e93a91"
   },
   "peerDependencies": {
     "jquery": "^1.11.3",
